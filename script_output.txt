@@ -1,0 +1,11 @@
+Sun May 19 07:49:18 JST 2024
+/Users/Omar/Desktop/dcase2023_task2_baseline_ae/02a_test.sh
+-e 	dev_eval = ''
+
+/Users/Omar/Desktop/dcase2023_task2_baseline_ae/02a_test.sh: argument error
+-e usage	: /Users/Omar/Desktop/dcase2023_task2_baseline_ae/02a_test.sh ['-d' | '--dev' | '-e' | '--eval']
+-e 	invalid choice ''
+-e 	choice from ['-d' | '--dev' | '-e' | '--eval'].
+-e 		-d, --dev	: Using Development dataset. 
+-e 		-e, --eval	: Using Additional training dataset and Evaluation dataset. 
+-e example	: $ bash /Users/Omar/Desktop/dcase2023_task2_baseline_ae/02a_test.sh -d
